@@ -82,10 +82,10 @@ To explore the crime data:
 
 ### **📸 Screenshots**  
 **Crime Trend Visualization 📊**  
-![Crime Trend Screenshot]([https://your-image-link.com](https://github.com/akeesh13/B42_DA_002_Insight-Innovators/blob/1071a5095f2e58c39365ece7f93352a0c5f23b3c/year%20trend.png))  
+![Crime Trend Screenshot](https://your-image-link.com](https://github.com/akeesh13/B42_DA_002_Insight-Innovators/blob/1071a5095f2e58c39365ece7f93352a0c5f23b3c/year%20trend.png))  
 
 **State-Level Crime Analysis 🗺️**  
-![State Crime Screenshot]([https://your-image-link.com](https://github.com/akeesh13/B42_DA_002_Insight-Innovators/blob/0b879c3c7c6d04bab7671bf566b0fc93db4cec75/Screenshot%202025-02-10%20023333.png))  
+![State Crime Screenshot](https://your-image-link.com](https://github.com/akeesh13/B42_DA_002_Insight-Innovators/blob/0b879c3c7c6d04bab7671bf566b0fc93db4cec75/Screenshot%202025-02-10%20023333.png))  
 
 ---
 

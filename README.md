@@ -17,7 +17,7 @@ This project provides an **interactive dashboard** to analyze **caste-based crim
 ---
 
 ## **🚀 Deployed App**  
-🌐 **Streamlit Dashboard:** [Live Dashboard](https://your-streamlit-app-url.streamlit.app/)  
+🌐 **Streamlit Dashboard:** [Live Dashboard](https://b42da002insight-innovators-j8xxixczy6up8gkueqtj5q.streamlit.app/)  
 
 ---
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ### **3️⃣ Run the Streamlit Application**  
 ```bash
-streamlit run Streamlit_App.py
+streamlit run Streamlit.py
 ```
 💡 **Once running, open the displayed URL in your browser (e.g., `http://localhost:8501/`).**  
 
@@ -82,12 +82,10 @@ To explore the crime data:
 
 ### **📸 Screenshots**  
 **Crime Trend Visualization 📊**  
-![Crime Trend Screenshot](https://your-image-link.com)  
+![Crime Trend Screenshot]([https://your-image-link.com](https://github.com/akeesh13/B42_DA_002_Insight-Innovators/blob/1071a5095f2e58c39365ece7f93352a0c5f23b3c/year%20trend.png))  
 
 **State-Level Crime Analysis 🗺️**  
-![State Crime Screenshot](https://your-image-link.com)  
-
-> Replace image links with actual screenshots or upload them in your GitHub repo.  
+![State Crime Screenshot]([https://your-image-link.com](https://github.com/akeesh13/B42_DA_002_Insight-Innovators/blob/0b879c3c7c6d04bab7671bf566b0fc93db4cec75/Screenshot%202025-02-10%20023333.png))  
 
 ---
 

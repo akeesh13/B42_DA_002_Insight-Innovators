@@ -37,17 +37,6 @@ caste-crime-dashboard/
 ├─ requirements.txt       # Dependencies
 ```
 
----
-
-## **📽 Video Walkthrough**  
-### **🎥 Dashboard Features (1-3 min)**  
-> [Insert a short video walkthrough of your dashboard]  
-
-### **🎥 Codebase Overview (1-5 min)**  
-> [Insert a short video walkthrough of your codebase]  
-
----
-
 ## **⚡ Features**  
 ✔ **Interactive Filters & Sliders** to explore crime data  
 ✔ **Year-wise Analysis (2001-2013)** 📆  
